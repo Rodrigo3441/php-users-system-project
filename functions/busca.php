@@ -1,6 +1,6 @@
 <?php
 /*
-arquivo: funcoes.php
+arquivo: busca.php
 função: centralizar funções de consulta de cpf no banco de dados
 
 explicação de cada função
@@ -35,9 +35,8 @@ if (!$ponteiro)
 }
 
 $ponteiro->bind_param("s", $cpf);           //passa o CPF para a query de busca
-$ponteiro->execute();                       //executa a busca
 
-// verifica se a query foi executada corretamente
+// executa a busca e verifica se a query foi executada corretamente
 if (!$ponteiro->execute())
 {
     error_log("Erro ao executar query: " . $conn->error);
@@ -71,9 +70,8 @@ if (!$ponteiro)
 }
 
 $ponteiro->bind_param("s", $cpf);           //passa o CPF para a query de busca
-$ponteiro->execute();                       //executa a busca
 
-// verifica se a query foi executada corretamente
+// executa a query e verifica se ela foi executada corretamente
 if (!$ponteiro->execute())
 {
     error_log("Erro ao executar query: " . $conn->error);

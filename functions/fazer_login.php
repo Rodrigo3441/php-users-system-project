@@ -8,7 +8,7 @@ session_start();
 
 //inclui arquivo de conexão com servidor e funções para encontrar os dados do usuário
 require_once "config.php";
-require_once "funcoes.php";
+require_once "busca.php";
 
 // define variável de tentativas de login
 if (!isset($_SESSION['tentativas_login']))

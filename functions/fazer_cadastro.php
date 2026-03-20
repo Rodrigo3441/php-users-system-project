@@ -7,7 +7,7 @@ data de modificação: 19/03/2026
 
 //inclui arquivo de conexão com servidor e funções para encontrar os dados do usuário
 require_once "config.php";
-require_once "funcoes.php";
+require_once "busca.php";
 
 //Valida se o arquivo foi acessado exclusivamente pelo formulário
 if ($_SERVER["REQUEST_METHOD"] === "POST")

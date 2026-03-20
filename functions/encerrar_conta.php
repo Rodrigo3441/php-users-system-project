@@ -10,7 +10,7 @@ session_start();
 
 //inclui arquivo de conexão com servidor e funções para encontrar os dados do usuário
 require_once "config.php";
-require_once "funcoes.php";
+require_once "busca.php";
 
 //se houver uma sessão iniciada e essa página tiver sido acessada exclusivamente pelo método POST, executa
 if (isset($_SESSION['usuario_cpf']) && $_SERVER['REQUEST_METHOD'] === "POST")
