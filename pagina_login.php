@@ -47,7 +47,7 @@
                     
                     <p>
                         <label for="senha">Senha:</label><br>
-                        <input type="password" id="senha" name="senha" placeholder="use letras, números e símbolos" required>
+                        <input type="password" id="senha" name="senha" placeholder="use letras, números e símbolos" maxlength="50" required>
                     </p>
             
                     <p>

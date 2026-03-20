@@ -16,7 +16,7 @@ explicação: Diferente da função anterior, essa faz a consulta e também sele
 atributos na pesquisa, atributos esses que serão armazenados em um array associativo
 e posteriormente retornados para serem usados na inicialização da sessão do usuário
 
-data de modificação: 06/11/2025
+data de modificação: 19/03/2026
 */
 
 //CADASTRO - função para verificar se um cpf já está cadastrado no sistema

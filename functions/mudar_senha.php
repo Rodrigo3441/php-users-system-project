@@ -2,7 +2,7 @@
 /*
 arquivo: mudar_senha.php
 função: realizar a atualização de senha caso o usuário tenha esquecido sua senha
-data de modificação: 07/11/2025
+data de modificação: 19/03/2026
 */
 
 //inclui arquivo de conexão com servidor e funções para encontrar os dados do usuário

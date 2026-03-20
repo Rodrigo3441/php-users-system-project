@@ -1,3 +1,8 @@
+/*
+arquivo: cadastro.css
+uso: pagina_cadastro.php, pagina_editar_perfil.php, pagina_esqueci_senha.php e pagina_login.php
+data de modificação: 20/03/2026
+*/
 body {
         margin: 0;
         padding: 0;
@@ -52,6 +57,7 @@ body {
         border-radius: 5px;
     }
 
+    /* botão azul de confirmação */
     .container input[type="submit"] {
         width: 100%;
         padding: 10px;
@@ -67,6 +73,23 @@ body {
     .container input[type="submit"]:hover {
         background-color: #1d357a;
     }
+
+    /* botão vermelho de confirmação */
+    #botaovermelho {
+        width: auto;
+        padding: 10px;
+        background-color: #ff5555; 
+        color: white;
+        border: none;
+        border-radius: 5px;
+        cursor: pointer;
+        font-weight: bold;
+        transition: background-color 0.3s;
+    }
+
+    #botaovermelho:hover {
+        background-color: #ff0000;
+    }    
 
     .container a {
         color: white;

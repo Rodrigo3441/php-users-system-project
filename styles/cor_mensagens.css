@@ -1,7 +1,15 @@
-.vermelho {
+/*
+arquivo: cor_mensagens.css
+uso: pagina_principal.php, pagina_cadastro.php, pagina_editar_perfil.php, pagina_esqueci_senha.php e pagina_login.php
+data de modificação: 20/03/2026
+*/
+
+.vermelho 
+{
     color: #ff0000;
 }
 
-.verde {
+.verde 
+{
     color: #00ff00;
 }

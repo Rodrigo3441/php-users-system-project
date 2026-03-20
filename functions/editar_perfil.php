@@ -2,7 +2,7 @@
 /*
 arquivo: editar_perfil.php
 função: fazer atualização das informações do usuário
-data de modificação: 07/11/2025
+data de modificação: 19/03/2026
 */
 
 //inicia a sessão com as informações do usuário

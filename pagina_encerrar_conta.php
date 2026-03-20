@@ -13,7 +13,7 @@ if (!isset($_SESSION['usuario_cpf'])){
 <html lang="pt-br">
 <head>
 <meta charset="UTF-8">
-<link href="styles/encerrar_conta.css" rel="stylesheet">
+<link href="styles/cadastro.css" rel="stylesheet">
 <link href="styles/cor_mensagens.css" rel="stylesheet">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>Encerrar conta</title>
@@ -54,7 +54,7 @@ if (!isset($_SESSION['usuario_cpf'])){
             <input type="password" id="senha" name="senha" placeholder="Digite sua senha" required>
         </p>
 
-        <input type="submit" value="Excluir conta permanentemente">
+        <input type="submit" id="botaovermelho" value="Excluir conta permanentemente">
     </form>     
     <br><br>
     <a href="pagina_editar_perfil.php">Cancelar</a>

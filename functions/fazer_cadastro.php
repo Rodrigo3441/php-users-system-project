@@ -2,7 +2,7 @@
 /*
 arquivo: fazer_cadastro.php
 função: cadastrar um novo usuário no sistema, validando seus dados e fazendo hash de senha
-data de modificação: 06/11/2025
+data de modificação: 19/03/2026
 */
 
 //inclui arquivo de conexão com servidor e funções para encontrar os dados do usuário

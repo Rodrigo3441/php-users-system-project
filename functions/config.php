@@ -2,7 +2,7 @@
 /*
 arquivo: config.php
 função: estabelecer uma conexão com o banco de dados para fazer a manipulação de informações
-data de modificação: 06/11/2025
+data de modificação: 19/03/2026
 */
 
 //inicializa as quatro variáveis necessárias para estabelecer a conexão

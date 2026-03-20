@@ -2,7 +2,7 @@
 /*
 arquivo: fazer_login.php
 função: receber credenciais do usuário e iniciar a sessão dele no sistema
-data de modificação: 06/11/2025
+data de modificação: 19/03/2026
 */
 session_start();
 

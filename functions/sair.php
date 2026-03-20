@@ -2,7 +2,7 @@
 /*
 arquivo: sair.php
 função: encerrar a sessão do usuário e fazer logoff
-data de modificação: 06/11/2025
+data de modificação: 19/03/2026
 */
 
 //inicia a sessão que está aberta no momento

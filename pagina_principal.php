@@ -126,7 +126,7 @@ $_SESSION['tentativas_login'] = 0;
 
 <footer class="rodape">
 <hr>
-© 2025 NewStar Systens LTDA. Todos os direitos reservados
+© 2026 NewStar Systens LTDA. Todos os direitos reservados
 </footer>
 </body>
 </html>

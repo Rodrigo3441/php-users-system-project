@@ -2,7 +2,7 @@
 /*
 arquivo: encerrar_conta.php
 função: apagar a conta do usuário em sessão, exigindo senha para confirmação
-data de modificação: 06/11/2025
+data de modificação: 19/03/2026
 */
 
 //inicia a sessão do usuário logado, para pegar suas informações
