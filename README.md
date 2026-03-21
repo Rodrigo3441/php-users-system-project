@@ -108,19 +108,23 @@ A proteção contra CSRF (uso de tokens para validação de requisições) não 
 Algumas Imagens do projeto em funcionamento
 
 ### Cadastro
-Página de cadastro de novos usuários
+Página de cadastro de novos usuários.
+
 ![Cadastro](docs/images/pagina_cadastro_1.png)
 
 ### Dashboard após login
-Área principal após autenticação do usuário
+Área principal após autenticação do usuário.
+
 ![Dashboard](docs/images/dashboard.png)
 
 ### Erro de login (excesso de tentativas)
 Mensagem exibida quando o limite de tentativas é atingido.
+
 ![Login_erro](docs/images/pagina_login2.png)
 
 ### Aviso de êxito ao criar conta
 Mensagem exibida após criação da conta.
+
 ![Dashboard_exito](docs/images/dashboard_sucesso.png)
 
 ## Objetivo de Aprendizado
